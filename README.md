@@ -47,6 +47,7 @@ Many experiments live under the **Melpermo** umbrella—a personal space for exp
 *   **Website:** [melpermo.space](https://melpermo.space)
 *   **Twitter:** [@melpermo](https://twitter.com)
 *   **Itch.io:** [melpermo.itch.io](https://melpermo.itch.io)
+*   **YouTube** [melpermo.youtube](https://www.youtube.com/user/melpermo)
 
 > *Technology is an instrument; the creativity comes from how we choose to play it.*
 
@@ -66,8 +67,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Where to find me
-- [Web]     (https://melpermo.space)
-- [Twitter] (https://twitter.com/melpermo)
-- [YouTube] (https://www.youtube.com/user/melpermo)
-- [Itch.io] (https://melpermo.itch.io/)
