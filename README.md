@@ -14,9 +14,8 @@ This was built using a **modular architecture** to keep the systems flexible and
 *   **Smart Data:** Heavy use of **ScriptableObjects** to decouple game data from logic (making it easy to tweak balance without breaking code).
 *   **AI Workflow:** Generative AI was used to assist in creating assets, testing how it fits into a real indie production pipeline.
 
-> 
 
-> [**View the Repository**] [https://github.com/Melpermo ](https://github.com/Melpermo/big-school-mdai-tfm) / [**Download on Itch.io**](https://melpermo.itch.io)
+> [**View the Repository**](https://github.com/Melpermo/big-school-mdai-tfm) / [**Download on Itch.io**](https://melpermo.itch.io)
 
 ---
 
