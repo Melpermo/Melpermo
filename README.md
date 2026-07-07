@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Melpermo 👋
 
 **Indie Developer building browser games, creative tools and AI-assisted experiments.**
@@ -62,6 +61,6 @@ Open-source tools, reusable templates and selected technical projects.
 ---
 
 # Build. Publish. Learn. Repeat.
-```
+
 
 
