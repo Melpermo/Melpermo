@@ -1,70 +1,67 @@
-# Melpermo 👋
-**Creative Developer • Tinkering with AI**
+```markdown
+# Hi, I'm Melpermo 👋
 
-Projects are built at the intersection of **technology, creativity, and artificial intelligence**. Currently, exploring how AI can help build and create daily, focusing on making AI-assisted workflows feel natural and productive.
+**Indie Developer building browser games, creative tools and AI-assisted experiments.**
 
----
-
-### 🕹️ Featured Project: The Human Loop
-*A decision-based card game about the chaos of shipping software.*
-
-This was built using a **modular architecture** to keep the systems flexible and scalable, instead of hardcoding the logic.
-
-*   **The Tech:** Built with **Unity & C#**.
-*   **Smart Data:** Heavy use of **ScriptableObjects** to decouple game data from logic (making it easy to tweak balance without breaking code).
-*   **AI Workflow:** Generative AI was used to assist in creating assets, testing how it fits into a real indie production pipeline.
-
-
-> [**View the Repository**](https://github.com/Melpermo/big-school-mdai-tfm) / [**Download on Itch.io**](https://melpermo.itch.io)
+I enjoy turning ideas into finished, published projects and sharing what I learn along the way.
 
 ---
 
-### 🧪 Side Projects & Experiments
-Many experiments live under the **Melpermo** umbrella—a personal space for exploring creativity through technology.
+## 🚀 Current Focus
 
-*   **Melpermo Space** – Personal creative hub.
-*   **BikkuGames** – Experimental indie game development.
-*   **Melpermo Bitácora** – Reflections on AI, code, and the creative process.
-
----
-
-### 🛠️ Current Stack & Tools
-
-*   **Development:** Unity, C#, and Git for version control and modular systems.
-*   **AI as a Co-pilot:** Exploring workflows with ChatGPT and Gemini for architecture, alongside Midjourney and Runway for visual experimentation.
-*   **Design:** Affinity Suite for vector graphics and 2D asset production.
+- 🎮 Browser games
+- 🛠️ Creative tools
+- 🧪 AI-assisted experiments
+- ✍️ Technical writing
 
 ---
 
-### 🧠 What I'm Exploring Right Now
+## 🌐 Ecosystem
 
-*   **Human + AI Collaboration:** How to delegate repetitive tasks to AI without losing creative authorship.
-*   **Procedural Creativity:** Building systems that generate content guided by human-defined rules.
-*   **Sustainable Workflows:** Finding tools and processes that empower indie developers to punch above their weight.
+### **Melpermo Space**
+AI laboratory, prototypes, experiments and technical articles.
+
+### **BikkuGames**
+Published browser games, development logs and game design.
+
+### **GitHub**
+Open-source tools, reusable templates and selected technical projects.
 
 ---
 
-### 🌐 Connect with me
-*   **Website:** [melpermo.space](https://melpermo.space)
-*   **Twitter:** [@melpermo](https://twitter.com)
-*   **Itch.io:** [melpermo.itch.io](https://melpermo.itch.io)
-*   **YouTube** [melpermo.youtube](https://www.youtube.com/user/melpermo)
+## 🛠️ Tech
 
-> *Technology is an instrument; the creativity comes from how we choose to play it.*
+**Unity · C# · JavaScript · HTML/CSS · Git · ChatGPT · Gemini · Affinity Designer**
 
+---
 
-<!--
-**Melpermo/Melpermo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Philosophy
 
-Here are some ideas to get you started:
+> I build small projects with a simple goal:
+>
+> **Every experiment should become something useful, playable or worth sharing.**
+>
+> AI is part of my workflow, not the author of my work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌍 Find Me
+
+🌐 https://melpermo.space
+
+🎮 https://bikkugames.com
+
+📰 https://bitacora.melpermo.space
+
+🎲 https://melpermo.itch.io
+
+📌 https://www.pinterest.com/melpermo
+
+🐦 https://x.com/melpermo
+
+---
+
+# Build. Publish. Learn. Repeat.
+```
+
 
